@@ -3,7 +3,10 @@ name = "slayer"
 version = "0.1.0"
 authors = ["Dy11on <26803229+Dy11on@users.noreply.github.com>"]
 edition = "2018"
-
+license = "Apache-2.0"
+description = "Game repo"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
 
 [dependencies]
